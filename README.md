@@ -29,6 +29,3 @@ streamlit run frontend.py
 2. **Tick 6**: 'RUN STRESS TEST' 버튼을 통한 기본소득(10만 원) 투입 정책 트리거.
 3. **Tick 7~23**: 저소득층의 구매력 상승 및 시장 유동성 증가폭 관찰.
 4. **Tick 24**: 최종 리포트 브리핑 및 시뮬레이션 종료.
-
-
-<img width="1872" height="944" alt="캡처" src="https://github.com/user-attachments/assets/18d01608-6bc8-4aab-81a5-a744541d7b74" />
